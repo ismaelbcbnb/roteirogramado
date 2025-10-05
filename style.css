@@ -11,7 +11,13 @@ a {
     color: blue;
 }
 
+a i {
+    color: #00796b;
+}
 
+a.mapa {
+    color: #00796b;
+}
 
 header {
     background: #004d40;
